@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I am Aman Singh👋
+
+✨ About Me ✨
+- I'm a Full Stack Developer based in India. I specialize in Java, Spring Boot, and React, and I'm always eager to learn and explore new technologies. I love coding and solving problems, and I'm constantly seeking opportunities to collaborate with fellow developers and contribute to open source projects.
+
+🌱 Skills
+- Languages: Java, JavaScript
+- Frameworks/Libraries: Spring Boot, React,
+- Database: Oracle, PostgreSQL
+- Want to grow this list 😄
+
 
 <!--
 **AmanSingh1989/AmanSingh1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
